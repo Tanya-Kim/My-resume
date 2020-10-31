@@ -1,2 +1,3 @@
 # My-resume
-This is my first site with js
+
+This is my first site with java script ^\_^
